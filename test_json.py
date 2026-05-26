@@ -17,9 +17,7 @@ raw_response = """
 
 # 第一步：把字符串解析成 Python 认识的字典/列表结构
 # 注意：这一行你不用动，这是固定的解包动作
-parsed_data = json.loads(raw_response)
-
-
+parsed_data = json.loads(raw_response);
 
 
 # 任务 1：请尝试写一行代码，打印出这个 Agent 的名字（期待输出: Media_Bot_V1）
