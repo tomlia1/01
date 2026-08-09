@@ -8,6 +8,7 @@ llm_response = {
             "message": {
                 "role": "assistant",
                 "content": "您好！我是您的 AI Agent 助理。"
+                
             },
             "finish_reason": "stop"
         }
