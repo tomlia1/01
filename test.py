@@ -6,7 +6,6 @@ user_data = {
     "name": "tomlia1",
     "school": "民办三本",
     "target_job": "AI实施工程师"
-
 }
 print(user_data["target_job"])  # 键名是 "target_job"，有下划线
 # 需求：如果自学时间大于等于 4 小时，打印合格；否则打印偷懒
