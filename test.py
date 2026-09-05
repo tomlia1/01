@@ -2,6 +2,7 @@ ai_job=["AI应用开发","AI实施工程师","大模型数据清洗工"]
 print(ai_job[1])
 print(ai_job[2])  # 索引从 0 开始，3个元素只有 [0][1][2]
 # 需求：打印出你的目标岗位（target_job）
+
 user_data = {
     "name": "tomlia1",
     "school": "民办三本",
